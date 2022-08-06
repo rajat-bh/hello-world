@@ -4,7 +4,7 @@ This is to **test** the branch commit and the other ~~basic~~ options used in gi
 
 [This is a link to my profile](https://github.com/rajat-bh "My Profile")
 
-##List of some programming languages I have worked on :##
+> List of some programming languages I have worked on :
 * Java
 * JavaScript
 * C++
